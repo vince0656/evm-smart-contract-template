@@ -1,0 +1,26 @@
+# Compiler files
+cache/
+out/
+
+# Dependency directories
+lib/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/**/dry-run/
+
+# Docs
+docs/
+
+# Dotenv file
+.env
+
+# Node modules
+node_modules/
+
+# Coverage
+coverage/
+coverage.json
+
+# Misc
+.DS_Store 
